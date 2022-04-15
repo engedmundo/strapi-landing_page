@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_footer_footers",
+  "info": {
+    "name": "footer",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "footer_text": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
