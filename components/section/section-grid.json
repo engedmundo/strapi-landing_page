@@ -2,7 +2,8 @@
   "collectionName": "components_section_section_grids",
   "info": {
     "name": "section-grid",
-    "icon": "address-book"
+    "icon": "address-book",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -23,6 +24,12 @@
       "type": "component",
       "repeatable": true,
       "component": "section.image-grid"
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section-metadata",
+      "required": true
     }
   }
 }
